@@ -28,15 +28,16 @@ A proposta do teste foi criar uma página simples contendo:
 ## Estrutura do Projeto
 
 📁 teste-funsales
-├── index.html
-├── style.css
-└── script.js
+
+  ├── index.html
+  ├── style.css
+  └── script.js
 
 ## Como Executar
 
 1. Faça o download ou clone este repositório:
 
-git clone LINK_DO_REPOSITORIO
+  git clone https://github.com/thamiressarges/teste
 
 2. Abra o arquivo `index.html` no navegador.
 
