@@ -43,6 +43,9 @@ A proposta do teste foi criar uma página simples contendo:
 
 Não é necessário instalar dependências.
 
+## Github Pages
+   https://thamiressarges.github.io/teste/
+   
 ## Desenvolvido por
 
 Thamires Sarges  
